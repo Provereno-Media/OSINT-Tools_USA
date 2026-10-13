@@ -4,7 +4,7 @@
 
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to the United States of America. This repository contains verified, working links to official government databases and publicly accessible resources organized according to the OSINT-for-Countries-V2.0 framework.
 
-**Last Updated:** September 2025
+**Last Updated:** October 2025
 
 ***
 
@@ -63,6 +63,7 @@ Business registries, company searches, corporate transparency, and tax informati
 - **[FinCEN Beneficial Ownership Registry](https://www.fincen.gov/boi)** - Corporate Transparency Act reporting database (Beneficial Ownership Information)
 - **[IRS Tax-Exempt Search](https://www.irs.gov/charities-non-profits/tax-exempt-organization-search)** - Federal tax-exempt organization database
 - **[Charity Navigator](https://www.charitynavigator.org)** - Nonprofit organization database with ratings and financial information
+- **[Tesari First Resort](https://tesari.ai/)** — Tesari is an all-source intelligence platform designed for high-stakes environments, with applications ranging from trade compliance and supply chain illumination to financial crime investigations and complex litigation. It is a paid platform that offers a Tech for Good (Community Impact) Programme for OSINT practitioners and journalists.
 
 ### Global Search
 - **[Open Corporates](https://opencorporates.com/)
